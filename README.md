@@ -32,7 +32,7 @@ Dymola MAT
 ## Entrée
 
 - Fichier `.mat` Dymola
-- Contenant :
+- Conte0t :
   - `time` (vecteur temps)
   - Variables dynamiques (pressions, températures, débits…)
   - Variables statiques / géométriques (dimensions, paramètres, constantes)
